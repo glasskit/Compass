@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jordanreger.glasscompass.util;
+package com.glasskit.compass.util;
 
 /**
  * A utility class containing arithmetic and geometry helper methods.

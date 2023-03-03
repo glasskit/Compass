@@ -1,4 +1,4 @@
-package com.jordanreger.glasscompass;
+package com.glasskit.compass;
 
 /*
  * Copyright (C) 2013 The Android Open Source Project
@@ -16,9 +16,9 @@ package com.jordanreger.glasscompass;
  * limitations under the License.
  */
 
-import com.jordanreger.glasscompass.model.Landmarks;
-import com.jordanreger.glasscompass.model.Place;
-import com.jordanreger.glasscompass.util.MathUtils;
+import com.glasskit.compass.model.Landmarks;
+import com.glasskit.compass.model.Place;
+import com.glasskit.compass.util.MathUtils;
 import com.google.android.glass.timeline.LiveCard;
 import com.google.android.glass.timeline.LiveCard.PublishMode;
 

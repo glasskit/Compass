@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.jordanreger.glasscompass.model;
+package com.glasskit.compass.model;
 
-import com.jordanreger.glasscompass.R;
-import com.jordanreger.glasscompass.util.MathUtils;
+import com.glasskit.compass.R;
+import com.glasskit.compass.util.MathUtils;
 
 import android.content.Context;
 import android.util.Log;

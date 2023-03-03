@@ -1,4 +1,4 @@
-package com.jordanreger.glasscompass.model;
+package com.glasskit.compass.model;
 
 /*
  * Copyright (C) 2013 The Android Open Source Project

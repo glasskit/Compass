@@ -1,4 +1,4 @@
-package com.jordanreger.glasscompass;
+package com.glasskit.compass;
 
 /*
  * Copyright (C) 2013 Google Inc.
@@ -16,8 +16,8 @@ package com.jordanreger.glasscompass;
  * the License.
  */
 
-import com.jordanreger.glasscompass.model.Place;
-import com.jordanreger.glasscompass.util.MathUtils;
+import com.glasskit.compass.model.Place;
+import com.glasskit.compass.util.MathUtils;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;

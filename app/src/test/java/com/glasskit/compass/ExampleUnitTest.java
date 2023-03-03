@@ -1,4 +1,4 @@
-package com.jordanreger.glasscompass;
+package com.glasskit.compass;
 
 import org.junit.Test;
 
